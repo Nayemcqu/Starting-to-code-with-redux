@@ -1,0 +1,23 @@
+{
+  "name": "starting-to-code-with-redux",
+  "version": "1.0.0",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nayemcqu/Starting-to-code-with-redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nayemcqu/Starting-to-code-with-redux/issues"
+  },
+  "homepage": "https://github.com/Nayemcqu/Starting-to-code-with-redux#readme",
+  "description": "",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
